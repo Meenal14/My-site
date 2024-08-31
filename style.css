@@ -1,0 +1,173 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: rgb(231, 247, 250);
+}
+.circle{
+    border-radius: 100%;
+    height: 400px;
+}
+h1{
+    
+    width: 40%;
+    margin: 50px auto 0 auto;
+    
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    margin-top: 0;
+    color: #66BFBF;
+    padding: 10px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+p{
+    line-height: 2;
+}
+.topContainer{
+    background-color: #EAF6F6;
+    padding: 100px 20px 20px;
+    position: relative;
+    
+    
+}
+.middle-container{
+    margin: 100px 0px 0px;
+}
+.para{
+    width: 30%;
+    margin: 10px auto;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+.upper-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.lower-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+.skill-img1{
+    width: 15%;
+    height: 15%;
+    float: left;
+    margin-right: 30px;
+}
+.skill-img2{
+    width: 15%;
+    height: 15%;
+    float: right;
+    margin-left: 30px;
+}
+.main-img{
+    width: 15%;
+    height: 15%;
+    margin-bottom: 20px ;
+}
+hr{
+    border: #c8cece;
+    
+    border-style: none;
+    border-top-style: dotted;
+    margin: 100px auto;
+    width: 7%;
+    height: 10px;
+    border-width: 9px;
+    
+
+    margin: 60px auto;
+}
+.btn{
+    background-color:#2bc4ad ;
+    color: white;
+    padding: 7px;
+    border: none;
+    border-radius: 7px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    margin: 90px auto ;
+    
+}
+.btn:hover{
+    background-color: #30e3cb;
+}
+.bottom-container{
+    height: 150px;
+    background-color: #66BFBF;
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+.copyright{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px;
+}
+.footer-link{
+    text-decoration: none;
+    color: #11999E;
+    padding: 30px;
+    margin: 10px;
+   
+}
+.footer-link:hover{
+    color: #eaf6f6;
+}
+p{
+    color: #40514E;
+}
+
+.contact-me{
+    margin: 20px;
+}
+/* .red{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: absolute;
+    
+    
+}
+.yellow{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    position: relative;
+    left: 100px;
+    
+    
+    
+   
+    
+    
+}
+.blue{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    
+    
+    
+    
+    
+    
+    
+    
+    
+} */
+
